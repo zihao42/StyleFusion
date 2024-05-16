@@ -1,0 +1,14 @@
+[
+    {
+        "instance_prompt": "photo of zwx anime dog",
+        "class_prompt": "photo of a anime dog",
+        "instance_data_dir": "/media/data1/ningtong/wzh/projects/dreambooth/data/zwx",
+        "class_data_dir": "/media/data1/ningtong/wzh/projects/dreambooth/data/dog"
+    },
+    {
+        "instance_prompt": "photo of uvl cat",
+        "class_prompt": "photo of a cat",
+        "instance_data_dir": "/media/data1/ningtong/wzh/projects/dreambooth/data/uvl",
+        "class_data_dir": "/media/data1/ningtong/wzh/projects/dreambooth/data/cat"
+    }
+]
